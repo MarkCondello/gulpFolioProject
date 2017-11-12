@@ -1,0 +1,728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid-",
+				"grid-md--6"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"grid",
+				"grid-lg--4"
+			],
+			[
+				"curren",
+				"currentPanelId"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"tab",
+				"tabPanels"
+			],
+			[
+				"tabs",
+				"tabsLength"
+			],
+			[
+				"check",
+				"checkBodyWidth"
+			],
+			[
+				"se",
+				"secondBtn"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"match",
+				"matchArray"
+			],
+			[
+				"mat",
+				"matchArray"
+			],
+			[
+				"reque",
+				"requestJSON"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"property",
+				"propertyName"
+			],
+			[
+				"tra",
+				"transitionend"
+			],
+			[
+				"pr",
+				"propertyName"
+			],
+			[
+				"tr",
+				"transitionend"
+			],
+			[
+				"open",
+				"open-active"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"age",
+				"ageTotal"
+			],
+			[
+				"fi",
+				"fifteens"
+			],
+			[
+				"for",
+				"foreach"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Admin/Documents/SitePoint - Courses/Responsive-Web-Development-Course/next-steps",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "gulp-useref: budes"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2410,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sass/base/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 145,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sass/styles.scss",
+			"settings":
+			{
+				"buffer_size": 568,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Admin/Desktop/recording",
+		"/C/Users/Admin/Desktop/recording/dist",
+		"/C/Users/Admin/Desktop/recording/dist/css",
+		"/C/Users/Admin/Desktop/recording/dist/js",
+		"/C/Users/Admin/Desktop/recording/src",
+		"/C/Users/Admin/Desktop/recording/src/images",
+		"/C/Users/Admin/Desktop/recording/src/sass",
+		"/C/Users/Admin/Desktop/recording/src/sass/base",
+		"/C/Users/Admin/Desktop/recording/src/sass/config",
+		"/C/Users/Admin/Desktop/recording/src/sass/mixins",
+		"/C/Users/Admin/Desktop/recording/src/sass/modules",
+		"/C/Users/Admin/Desktop/recording/src/sass/pages",
+		"/C/Users/Admin/Desktop/recording/src/sass/structure"
+	],
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/recording/src/sass/base/_helper_classes.scss",
+		"/C/Users/Admin/Desktop/recording/dist/css/styles.css",
+		"/C/Users/Admin/Desktop/recording/src/sass/base/_reset.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/styles.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/pages/_services.scss",
+		"/C/Users/Admin/Desktop/recording/src/index.html",
+		"/C/Users/Admin/Desktop/recording/dist/index.html",
+		"/C/Users/Admin/Desktop/recording/src/sass/mixins/_mixins_breakpoints.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/mixins/_mixins_grids.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/structure/_header.scss",
+		"/C/Users/Admin/.gitconfig",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-config.html",
+		"/C/Users/Admin/Desktop/recording/src/sass/modules/_grids.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/structure/_sections.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/structure/_footer.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/pages/_contact.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/pages/_blog.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/mixins/_mixins_general.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/pages/_portfolio.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/pages/_welcome.scss",
+		"/C/Users/Admin/Desktop/_grids.scss",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/amazon.css",
+		"/C/Users/Admin/Desktop/recording/src/js/main.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/styles.css",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/local.xml",
+		"/C/Users/Admin/Downloads/mg_core_resource.sql",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Admin/Desktop/recording/gulpfile.js",
+		"/C/Users/Admin/Desktop/recording/src/js/zepto.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/godaddy 2.html",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/godaddy.html",
+		"/C/Users/Admin/Desktop/recording/src/sass/config/_config.scss",
+		"/C/Users/Admin/Desktop/recording/src/sass/base/_typography.scss",
+		"/C/Users/Admin/Desktop/recording/src/grid_index.html",
+		"/C/Users/Admin/Documents/SitePoint - Courses/Responsive-Web-Development-Course/Chapt-5/Responsive-Web-Development-Course-lesson6.2/1 - start/grid.css",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/stagin_phpinfo.php",
+		"/C/Users/Admin/Documents/SitePoint - Courses/Responsive-Web-Development-Course/Chapt-3/3.4/1 - start/package.json",
+		"/C/Users/Admin/Desktop/recording/node_modules/gulp/bin/gulp.js",
+		"/C/Users/Admin/Desktop/recording/node_modules/gulp/bin/gulpfile.js",
+		"/C/Users/Admin/Documents/SitePoint - Courses/Responsive-Web-Development-Course/Chapt-3/3.4/1 - start/gulpfile.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Servers/staging.pharmadeal.com.au/app/design/frontend/ultimo/pharmadeal/template/tm/firecheckout/checkout/billing.phtml",
+		"/C/Servers/staging.pharmadeal.com.au/app/design/frontend/ultimo/pharmadeal/template/persistent/customer/form/login.phtml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/Play_Melbourne_EDM.html",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/template-works.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/daily_deal_segments.phtml",
+		"/C/Users/Admin/Desktop/commands",
+		"/C/Users/Admin/Desktop/BingSiteAuth.xml",
+		"/C/Users/Admin/Documents/Resources/index.html",
+		"/C/Users/Admin/Documents/SitePoint - Master JS/Next-Steps-in-JavaScript-lesson2.2/2.2.1.js",
+		"/C/Users/Admin/Documents/SitePoint - Master JS/Chapt4/Next-Steps-in-JavaScript-lesson4.1/4.1.js",
+		"/C/Servers/pharmadealonline.com.au/index.php",
+		"/C/Users/Admin/Desktop/index.php",
+		"/C/Users/Admin/Documents/SitePoint - Master JS/Next-Steps-in-JavaScript-lesson2.2/2.2.js",
+		"/C/Users/Admin/Documents/SitePoint - Master JS/Next-Steps-in-JavaScript-lesson2.2/2.2.2.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/752605289197",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/customnew.css",
+		"/C/wamp64/www/sites/sandbox/js/jquery_ui/index.html",
+		"/C/wamp64/www/sites/sandbox/js/jquery_ui/jquery-ui.js",
+		"/C/wamp64/www/sites/sandbox/js/tabs_displayer/index.html",
+		"/C/wamp64/www/sites/sandbox/js/template_literals/index.html",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/addtocart.phtml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/cpbackup-exclude.conf",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/mark.phtml",
+		"/C/Users/Admin/Desktop/header.html",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/jquery.tabs.min.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/footer_theme_scripts.phtml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/list.phtml",
+		"/C/Users/Admin/Desktop/fix_live_menus",
+		"/C/wamp64/www/sites/sandbox/js/jquery_ui/external/jquery/jquery.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/1038098565532",
+		"/C/Users/Admin/dbbackup_09_08_2017_MarkC.sql",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/header-btns 3.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/header-btns 2.js",
+		"/C/Users/Admin/Desktop/header-btns.js",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/header-btns.js",
+		"/C/Users/Admin/Desktop/440142896143",
+		"/C/Users/Admin/Downloads/db-20170807104330_latest.sql",
+		"/C/Users/Admin/Downloads/pharmadealcom_live-1502102109.sql",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/local 2.xml",
+		"/C/Users/Admin/Downloads/header-btns.js",
+		"/C/Users/Admin/Downloads/db-20170807070550_mine.sql",
+		"/C/Users/Admin/Downloads/local.xml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/788234317608",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DIa0.050/pharmadealcom_live.sql",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/view.phtml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/1column.phtml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/header.phtml",
+		"/C/Users/Admin/Desktop/compare_list.phtml",
+		"/C/Users/Admin/Desktop/list.phtml",
+		"/C/Users/Admin/Desktop/list_China.phtml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/Block/Helloworld.php",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/controllers/IndexController.php",
+		"/C/wamp64/www/sites/sandbox/js/practical_js/index.html",
+		"/C/wamp64/www/sites/sandbox/js/practical_js/main.js",
+		"/C/wamp64/www/sites/magento_sb/app/design/frontend/rwd/myTheme/template/helloworld-2.phtml",
+		"/C/Servers/pharmadealonline.com.au/skin/frontend/ultimo/default/css/styles.css",
+		"/C/wamp64/www/sites/sandbox/js/practical_js/main_mine.js",
+		"/C/Servers/pharmadealonline.com.au/app/design/frontend/ultimo/default/template/catalog/product/view.phtml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills - Copy/Booklayout/controllers/IndexController.php",
+		"/C/wamp64/www/sites/magento_sb/app/design/frontend/rwd/myTheme/template/hellocruelworld.phtml",
+		"/C/wamp64/www/sites/magento_sb/app/design/frontend/rwd/myTheme/template/helloworld.phtml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/content-updates/dog.xml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/Block/Youtube.php",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/Block/Template.php",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/content-updates/ceaser.xml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/content-updates/nofrills_booklayout_reference_fox.xml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/page-layouts/page.xml",
+		"/C/wamp64/www/sites/magento_sb/app/design/frontend/rwd/myTheme/layout/helloworld.xml",
+		"/C/Users/Admin/Documents/Web-dev-books/nofrills_layout/code/1.5 or higher/1_end/app/code/local/Nofrills/Booklayout/Block/Helloworld.php",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/controllers/LayoutdemoController.php",
+		"/C/wamp64/www/sites/magento_sb/app/design/frontend/rwd/myTheme/template/hello_cruel_world.phtml",
+		"/C/wamp64/www/sites/magento_sb/app/code/local/Nofrills/Booklayout/controllers/InstalledController.php",
+		"/C/wamp64/www/sites/sandbox/js/load_async_data/js/main.js",
+		"/C/Servers/pharmadealonline.com.au/.htaccess",
+		"/C/Servers/staging.pharmadeal.com.au/app/design/frontend/ultimo/default/template/page/1column_secret_deal.phtml",
+		"/C/Users/Admin/Downloads/markcond_FolioSite.sql",
+		"/C/Users/Admin/Downloads/markcond_FolioSite_BU22.7.sql",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/Secretdeal_Productlayout.xml",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/config.xml",
+		"/C/wamp64/www/sites/magento_sb/app/code/core/Mage/Core/Block/Template.php",
+		"/C/wamp64/www/sites/sandbox/js/load_async_data/index.html",
+		"/C/wamp64/www/sites/sandbox/js/load_async_data/content/demo.json",
+		"/C/wamp64/www/sites/sandbox/js/ajax_experiment/css/main.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myExtendedClass",
+			"<i",
+			"aria-label",
+			".myClass",
+			"myClass",
+			"base",
+			".grid",
+			"clearfix",
+			"blog__item .blog__item-image-container",
+			"contact-form__container",
+			"grid-lg--12",
+			"lg",
+			"grid-xs--12",
+			"grid-sm--6",
+			"grid-xs--12",
+			"grid-sm--6",
+			"grid-xs--12",
+			"page-name",
+			"xs",
+			"lg",
+			".grid-lg",
+			"8.333333333333333",
+			"gri",
+			"autoprefixer",
+			"sourcemaps",
+			"var sourcemaps = require('gulp-sourcemaps');\n",
+			"daily-deals-form-bottom",
+			"http://digyworks.com",
+			"com",
+			"http://digyworks.com",
+			".searchautocomplete .nav .nav-input",
+			".searchautocomplete .nav",
+			".searchautocomplete .nav .nav-input ",
+			"jque",
+			"product-tabs",
+			"tabs",
+			"user",
+			"<table style=\"display: inline-table;\" width=\"600\"",
+			".footer-secondary .block-title.heading",
+			"hardcoded",
+			"logo--regular",
+			"logo logo--regular",
+			"url",
+			".deal-heading-container .deal-heading.counter .timer-container",
+			"<table style=\"display: inline-table;\" width=\"600\"",
+			"<table style=\"display: inline-table;\" width=\"600\" align=\"center\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" class=\"devicewidth\" hasbackground=\"true\">",
+			"'",
+			"gender",
+			"title",
+			"request",
+			"dealHeight",
+			"DealHeight",
+			"dealHeight",
+			"DealHeight",
+			"dealHeight",
+			"closeQ",
+			"store_switcher",
+			"right",
+			"lang-switcher dropdown",
+			"languageSwitcherHtml",
+			"currencySwitcherHtml",
+			"google",
+			"store",
+			"switch",
+			"product",
+			"unset",
+			"related",
+			"unsetChild",
+			"paypal",
+			"unset",
+			"footer",
+			"switcher",
+			"sidebar",
+			"compare",
+			"footer",
+			"store",
+			"helloworld",
+			"elementClass",
+			"webdevlopers_productpageshipping_skeleton",
+			"getPrice",
+			"setCountryId",
+			"shipping",
+			"collectShippingRates",
+			"getShippingRatesCollection",
+			"setCollectShippingRates",
+			"addProduct",
+			"Content",
+			"content",
+			"helpers",
+			"blocks",
+			"WindowWidth",
+			"windowWidth",
+			"WindowWidth",
+			"windowWidth",
+			"WindowWidth",
+			"windowWidth",
+			"WindowWidth",
+			"windowWidth",
+			"WindowWidth",
+			"windowWidth",
+			"WindowWidth",
+			"windowWidth",
+			"WindowWidth",
+			"windowWidth",
+			"fields",
+			"fax",
+			" if ($this->canShip()):"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Admin/Documents/SitePoint - Courses/Responsive-Web-Development-Course/next-steps",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"auto_name": "gulp-useref: budes",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/sass/base/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/sass/styles.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "modern_front_end_dev_course.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

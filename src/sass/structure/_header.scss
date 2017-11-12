@@ -1,0 +1,75 @@
+.page-nav{
+	background: $color-base;
+	color: #fff;
+	text-align: center;
+	padding:1em 0 0 ;
+
+	@include tablet-port{
+		padding: 1.5em;
+	}
+}
+  
+.page-nav__li{
+	display:block;	
+	position: relative;
+	border-bottom: 1px solid #ccc;
+  
+	@include tablet-port{
+		display:inline-block;
+		border: 0;
+			//psuedo code to add dash items between each list item, except the last item
+		&::after{
+			border: 0;
+			content: "-";
+			position: absolute;
+			top: 50%;
+			right: -0.15em;
+			transform: translate(0, -50%);
+		}
+
+		&:last-child()::after{
+			display:none;
+		}
+	}
+
+}
+   
+.page-nav__item{
+	display: block;
+	color: inherit;//brings in parents color value
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: opacity 0.2s ease;
+	font-size: em(18); 
+
+	&:hover{
+		opacity: 0.7;
+	}
+
+	@include tablet-port{
+		font-size: em(18);
+		padding: 1em 2em;
+	}
+}   
+
+.page-nav__hamburger{
+	display:inline-block;
+	cursor: pointer;
+	transition: transform 0.2s ease;
+	margin-bottom: 1em;
+
+	&:hover{
+		transform: scale(1.2);
+	}
+
+	@include tablet-port{
+		display:none;
+	}
+}   
+
+.page-nav__ul{
+	@include tablet-port{
+		display: block;
+	}
+	display:none;
+}   

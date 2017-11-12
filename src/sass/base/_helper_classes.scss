@@ -1,0 +1,30 @@
+.clearfix, .grid{
+	&::before, &::after{
+		content: "";
+		display: table;
+	}
+
+	&::after{
+		clear: both;
+	}
+}
+
+//the ampersand sets the styling to the parent element meaning that the ::after will appear before the clearfix element or grid element.
+
+.ma{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.site-with{
+	max-width: $site-width;
+}
+
+.ac{
+	text-align: center;	
+}
+
+
+.ma{
+	margin: auto 0;
+}

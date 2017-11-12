@@ -1,0 +1,64 @@
+.blog__item{
+	font-size: em(14);	
+	margin-bottom: 2em;
+
+	@include tablet-port{
+		font-size: em(16);
+		margin-bottom: 3em;
+	}
+
+	@include wide{
+		font-size: em(18);
+		margin-bottom: 4em;
+	}
+
+	.blog__item-image-container{
+
+		margin-bottom: 1.5em;
+
+		img{
+			max-width: none;
+			width: 100%;
+		}
+
+		@include hover-border;
+	}
+
+	.blog__item-tag{
+		font-weight:bold;
+		text-transform: uppercase;
+		color: #292929;
+		margin-bottom: .5em;
+		text-decoration: none;
+		display:block;
+
+		@include link-hover;
+	}
+
+	.blog__item-title{
+		font-weight: bold;
+		color: $color-base;
+		font-size: em(20);
+		margin-bottom: 1rem;
+	}
+
+	.blog__item-excerpt{
+		line-height: 1.9;
+		color: #494949;
+	}
+
+	.blog__item-read{
+		text-align: right;
+		display:block;
+		color: $color-highlight;
+		font-weight: bold;
+
+		@include link-hover;
+
+		&::after{
+			content: " \00bb"; // unicode which should be added instead of hardcoing the item. These special characters can be found in windows by searching for Character Mapping 
+		}
+	}
+} 
+
+   
