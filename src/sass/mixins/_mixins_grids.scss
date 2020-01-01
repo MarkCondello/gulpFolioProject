@@ -1,21 +1,18 @@
-@mixin generate_grid($type, $gutter){
+@mixin generate_grid($type, $gutter) {
 
 	%grid-#{$type}--base {
-			float: left;
-			padding-left: $gutter;
-			padding-right: $gutter;
-		}
+		float: left;
+		padding-left: $gutter;
+		padding-right: $gutter;
+	}
 
-	@for $i from 1 through 12{
+	@for $i from 1 through 12 {
 		.grid-#{$type}--#{$i} {
-			@extend %grid-#{$type}--base;	
+			@extend %grid-#{$type}--base;
 
 			width: (100% / 12) * $i;
 
 		}
 	}
-	
+
 }
-
-
-
