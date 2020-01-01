@@ -26,16 +26,4 @@ img{
 
 label, button{
 	cursor: pointer;
-}
-
-
-
-%myClass{
-	border: 3px dashed yellow;
-}
-
-.myExtendedClass{
-	@extend %myClass;
-	width: 50%;
-}
-/**/   
+}  

@@ -9,10 +9,7 @@
 	@for $i from 1 through 12 {
 		.grid-#{$type}--#{$i} {
 			@extend %grid-#{$type}--base;
-
-			width: (100% / 12) * $i;
-
+			width: (100% / 12) * $i;           
 		}
 	}
-
 }
